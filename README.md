@@ -1,0 +1,2 @@
+FinCore
+Distributed Digital Banking Platform
